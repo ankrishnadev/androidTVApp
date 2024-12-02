@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.krishna.androidtvapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.krishna.androidtvapp"
