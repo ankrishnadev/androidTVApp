@@ -1,0 +1,1450 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1733768551010,
+  "data": {
+    "pageInfo": {
+      "hasNextPage": false,
+      "endCursor": "eyJlc1Rva2VuIjpbIjIwNzY3MiIsIjIwNzY3MiIsInR0MjEyNzIyNTIiXSwiZmlsdGVyIjoie1wiY29uc3RyYWludHNcIjp7XCJnZW5yZUNvbnN0cmFpbnRcIjp7XCJhbGxHZW5yZUlkc1wiOltcIkFjdGlvblwiXX0sXCJvcmlnaW5Db3VudHJ5Q29uc3RyYWludFwiOntcImFueVByaW1hcnlDb3VudHJpZXNcIjpbXCJJTlwiXX0sXCJyZWxlYXNlRGF0ZUNvbnN0cmFpbnRcIjp7XCJyZWxlYXNlRGF0ZVJhbmdlXCI6e1wiZW5kXCI6XCIyMDI5LTEyLTMxXCIsXCJzdGFydFwiOlwiMjAyMC0wMS0wMVwifX0sXCJydW50aW1lQ29uc3RyYWludFwiOntcInJ1bnRpbWVSYW5nZU1pbnV0ZXNcIjp7XCJtYXhcIjoxMjAsXCJtaW5cIjowfX0sXCJ0aXRsZVR5cGVDb25zdHJhaW50XCI6e1wiYW55VGl0bGVUeXBlSWRzXCI6W1widHZNaW5pU2VyaWVzXCIsXCJ0dk1vdmllXCIsXCJ0dlNlcmllc1wiLFwidHZTaG9ydFwiLFwidHZTcGVjaWFsXCJdfSxcInVzZXJSYXRpbmdzQ29uc3RyYWludFwiOntcImFnZ3JlZ2F0ZVJhdGluZ1JhbmdlXCI6e1wibWF4XCI6MTAsXCJtaW5cIjo2fSxcInJhdGluZ3NDb3VudFJhbmdlXCI6e1wibWluXCI6MTAwMH19fSxcImxhbmd1YWdlXCI6XCJlbi1VU1wiLFwic29ydFwiOntcInNvcnRCeVwiOlwiUE9QVUxBUklUWVwiLFwic29ydE9yZGVyXCI6XCJBU0NcIn0sXCJyZXN1bHRJbmRleFwiOjI3fSJ9",
+      "total": 28
+    },
+    "list": [
+      {
+        "title": {
+          "id": "tt27111295",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Citadel: Honey Bunny"
+          },
+          "primaryImage": {
+            "id": "rm3225643777",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGJkZDgwZWItMTI5ZC00OTExLWI3NDEtOGYxMGFjYWIzNjhkXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2000,
+            "imageHeight": 3000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.2,
+            "topRanking": null,
+            "voteCount": 6909
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Citadel: Honey Bunny"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15576504",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Night Manager"
+          },
+          "primaryImage": {
+            "id": "rm3165008385",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTIxMGY2YzgtMTNjMS00NGY3LWFmNmEtNmNkYmRjNGFiNDJiXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 768,
+            "imageHeight": 1377
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.6,
+            "topRanking": {
+              "rank": 1238
+            },
+            "voteCount": 15063
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Night Manager"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt21916016",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Tanaav"
+          },
+          "primaryImage": {
+            "id": "rm396231937",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzE4NWU4MWQtYWM5ZC00OTZjLWI3NDEtYTcwMDI0MWIwMWM3XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2700,
+            "imageHeight": 4000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.8,
+            "topRanking": null,
+            "voteCount": 10214
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Tanaav"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt22014226",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Taaza Khabar"
+          },
+          "primaryImage": {
+            "id": "rm4206050305",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjAzMDEzZmUtYjgzMy00NTYxLWJlODItYTMyZGI4YzdmZGY4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1000,
+            "imageHeight": 1500
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "topRanking": {
+              "rank": 1106
+            },
+            "voteCount": 54750
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Taaza Khabar"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13854248",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "The Legend of Hanuman"
+          },
+          "primaryImage": {
+            "id": "rm2812823297",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZThmZDIwYzEtMmQ1MS00MjhjLWJhYTktNzFkMzZhMzM0ZjNlXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1080
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9.1,
+            "topRanking": {
+              "rank": 396
+            },
+            "voteCount": 12975
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "The Legend of Hanuman"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15471900",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Rana Naidu"
+          },
+          "primaryImage": {
+            "id": "rm3706140161",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGRjMmQzMjQtMzViYi00YjIxLTkwYWMtOTJjNDFhMzA3NzNmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2048,
+            "imageHeight": 2048
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "topRanking": null,
+            "voteCount": 12229
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": 2023
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Rana Naidu"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12448030",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Aarya"
+          },
+          "primaryImage": {
+            "id": "rm1699722497",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGQ3OGQ2ZjktODhlMy00YTg2LWIxOTEtYzI5Mjg3MGNkMDQzXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 721,
+            "imageHeight": 1280
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": {
+              "rank": 1152
+            },
+            "voteCount": 16372
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Aarya"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12913686",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Jeet Ki Zid"
+          },
+          "primaryImage": {
+            "id": "rm2601441025",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2M3ODFlZjMtNTgzZi00YzUyLThjMGYtOTEwZTk2YzE4NmJjXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1080
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.3,
+            "topRanking": null,
+            "voteCount": 2703
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Jeet Ki Zid"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt27442834",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Saas, Bahu Aur Flamingo"
+          },
+          "primaryImage": {
+            "id": "rm580985345",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWZjYTUzOWYtNGI0OC00M2I4LWE5OWUtNDI1NWNhNDdhNDZmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1336,
+            "imageHeight": 1332
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": null,
+            "voteCount": 10424
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Saas, Bahu Aur Flamingo"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt9359338",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Bhaukaal"
+          },
+          "primaryImage": {
+            "id": "rm2772439809",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDFkOGZkYzctNzFlMi00ZWUwLWFlNTgtMGZjMzI1YmM4MDg2XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2700,
+            "imageHeight": 4000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.8,
+            "topRanking": null,
+            "voteCount": 15446
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Bhaukaal"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12392458",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Avrodh: The Siege Within"
+          },
+          "primaryImage": {
+            "id": "rm3100251393",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTNkNGU0MGUtM2QxYy00YTJlLTk0MmYtNjllOTljNDUxNDFjXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 2700,
+            "imageHeight": 4000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": null,
+            "voteCount": 4671
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2022
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Avrodh: The Siege Within"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt22015488",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Aar Ya Paar"
+          },
+          "primaryImage": {
+            "id": "rm1852194561",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ2YmMzZjMtZjkzOS00OTc5LWEwYmQtMDg2YzE4YWY5ZjM1XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1080
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": null,
+            "voteCount": 1272
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Aar Ya Paar"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13847564",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Inspector Avinash"
+          },
+          "primaryImage": {
+            "id": "rm2910462465",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmFkMDllYzItMTcxYi00ZDU1LTk1ZjUtZDg0ZjdjNWQ0MWY4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1350,
+            "imageHeight": 2000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": null,
+            "voteCount": 16710
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Inspector Avinash"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt10285166",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Your Honor"
+          },
+          "primaryImage": {
+            "id": "rm31501057",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzY5NjgyYmEtMWEzYi00MTRjLWEzYjMtYWY2MjVlNTdlZTQ1XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 182,
+            "imageHeight": 268
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.2,
+            "topRanking": null,
+            "voteCount": 3084
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Your Honor"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15477556",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "London Files"
+          },
+          "primaryImage": {
+            "id": "rm1270158081",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTY5YTdlYjktN2EyMy00OGI5LTlkOTgtNjczZmM4ZjY4ODAwXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1175,
+            "imageHeight": 1763
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "topRanking": null,
+            "voteCount": 13518
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "London Files"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt32501022",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "B & B: Bujji and Bhairava"
+          },
+          "primaryImage": {
+            "id": "rm127759105",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWQxNDVlMDUtNDBlMi00MzdjLWJlOGMtZDVkZGI0YmFhNmE0XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 945,
+            "imageHeight": 1181
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.7,
+            "topRanking": null,
+            "voteCount": 2079
+          },
+          "releaseYear": {
+            "year": 2024,
+            "endYear": 2024
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "B & B: Bujji and Bhairava"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13137346",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Hero Gayab Mode On"
+          },
+          "primaryImage": {
+            "id": "rm875287041",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDgxMWY0NDItM2Q0OS00NGM4LTljNzgtNzcwOThkZjc5OGYwXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 344,
+            "imageHeight": 494
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6,
+            "topRanking": null,
+            "voteCount": 1347
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2021
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Hero Gayab Mode On"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt21217736",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Shoorveer"
+          },
+          "primaryImage": {
+            "id": "rm1747407361",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjdmYzZjZTYtZDE1NC00NDZjLWI1ZDctMzcyNTM3NjI5MWNmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1000,
+            "imageHeight": 1400
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "topRanking": null,
+            "voteCount": 1383
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Shoorveer"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12753390",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Mum Bhai"
+          },
+          "primaryImage": {
+            "id": "rm2450447873",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWJlNTljYTgtNDRjMC00YmVmLWJiNjMtOWI0NmYwNjgwMjE1XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 888,
+            "imageHeight": 1280
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.3,
+            "topRanking": null,
+            "voteCount": 4100
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Mum Bhai"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13085546",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "A Simple Murder"
+          },
+          "primaryImage": {
+            "id": "rm2295193345",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmM3YWE5MDQtZTE5OS00YmQ0LThmNWEtMDViMmNiY2ZiOWEyXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 500,
+            "imageHeight": 715
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "topRanking": null,
+            "voteCount": 4081
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "A Simple Murder"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12701270",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Crackdown"
+          },
+          "primaryImage": {
+            "id": "rm1147937537",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDEwMGU2OWMtZThlMC00M2I4LTk3MjQtYzlmOWZiNWVjNTlmXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1350,
+            "imageHeight": 2000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "topRanking": null,
+            "voteCount": 20754
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Crackdown"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12347286",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Raktanchal"
+          },
+          "primaryImage": {
+            "id": "rm2199643905",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzg5NDI4NWUtYjExZC00N2ViLWJhNGQtNDQyNDc4NzM3ZDk3XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1724
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.8,
+            "topRanking": null,
+            "voteCount": 8055
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Raktanchal"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt27862209",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Rafuchakkar"
+          },
+          "primaryImage": {
+            "id": "rm3017613569",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzBhOGQ1ZDQtNjFiOC00MzEyLWIyMmQtZWRlNjkyMGM4YmRlXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1350,
+            "imageHeight": 2000
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.8,
+            "topRanking": null,
+            "voteCount": 4395
+          },
+          "releaseYear": {
+            "year": 2023,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Rafuchakkar"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt13923092",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "1962: The War in the Hills"
+          },
+          "primaryImage": {
+            "id": "rm2911357441",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ0NjIwNTctODVhYi00MTZkLThhMTMtY2U2ZWU4MmIxMTZlXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 640,
+            "imageHeight": 1138
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6,
+            "topRanking": null,
+            "voteCount": 1449
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "1962: The War in the Hills"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt15128122",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Escaype Live"
+          },
+          "primaryImage": {
+            "id": "rm298523905",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTZmOTY2NTQtODBlMC00ZmQ2LWExODAtNmFhZWZiYTRmYzk4XkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 513,
+            "imageHeight": 913
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.5,
+            "topRanking": null,
+            "voteCount": 4715
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Escaype Live"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt11102296",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "State of Siege: 26/11"
+          },
+          "primaryImage": {
+            "id": "rm2231942657",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmEyNWNjODItMjIyOC00OThmLWEwYjktZGY4YjliMDIzZGRjXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1080,
+            "imageHeight": 1080
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "topRanking": null,
+            "voteCount": 3452
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2020
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "State of Siege: 26/11"
+          },
+          "titleType": {
+            "id": "tvMiniSeries",
+            "text": "TV Mini Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Mini Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt12572870",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Naxalbari"
+          },
+          "primaryImage": {
+            "id": "rm1999625729",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGUyMjQ4MzYtMmI3MS00M2FmLTg3MjQtMDRmZjg1NTMxOTFkXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 913,
+            "imageHeight": 913
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "topRanking": null,
+            "voteCount": 4712
+          },
+          "releaseYear": {
+            "year": 2020,
+            "endYear": 2020
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Naxalbari"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      },
+      {
+        "title": {
+          "id": "tt21272252",
+          "isAdult": false,
+          "canRateTitle": {
+            "isRatable": true
+          },
+          "originalTitleText": {
+            "text": "Doon Kaand"
+          },
+          "primaryImage": {
+            "id": "rm246550273",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjA3NDUxZmQtOWNiMS00OTc2LWE4ZTQtMjgzZTNlN2E5NmJjXkEyXkFqcGc@._V1_.jpg",
+            "imageWidth": 1280,
+            "imageHeight": 1920
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "topRanking": null,
+            "voteCount": 3911
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null
+          },
+          "titleEpisode": null,
+          "titleText": {
+            "text": "Doon Kaand"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "displayableProperty": {
+              "value": {
+                "plainText": "TV Series"
+              }
+            },
+            "categories": [
+              {
+                "id": "tv",
+                "text": "TV",
+                "value": "tv"
+              }
+            ],
+            "canHaveEpisodes": true,
+            "isSeries": true,
+            "isEpisode": false
+          },
+          "series": null
+        }
+      }
+    ]
+  }
+}
